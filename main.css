@@ -1,0 +1,16 @@
+
+body {background-color:dodgerblue;
+        font-family: Segoe, Verdana, sans-serif;}
+
+header {background-color: black;}
+
+h1{color:white;}
+nav > il {line-height: 2em;
+        list-style-type: none;
+        padding-left: 5px;}
+
+section {background-color: skyblue;
+            width: 90%;
+            font-size: 1.1em;}
+
+footer {background-color: lightblue;}
